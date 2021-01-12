@@ -1,0 +1,15 @@
+.show-card{
+    border: 0;
+}
+.show-card-footer{
+    background-color: white;
+    border: 0;
+}
+.categories img{
+    width: 100px;
+
+}
+.show-slide .carousel-item{
+    background-color: #fceae8;
+    border-radius: 1em;
+} 
